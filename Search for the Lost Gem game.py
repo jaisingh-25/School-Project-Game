@@ -1,6 +1,3 @@
-# The Entire Source Code of the Game
-
-print()
 print("This is an epic Fantasy-Adventure game developed by Jai Singh")
 print()
 print("Now the game begins...")
