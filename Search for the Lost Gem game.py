@@ -156,9 +156,6 @@ which can be used to remove any magical properties or spells on an object.")
 print("You may use that in case you ever have to defend yourself or solve a puzzle.")
 print("You thank the Centaur and leave.")
 a=input("Please press the enter key to continue.")
-
-# Optional Side Mission Choice
-
 k="No"
 while k=="No" :
     print()
