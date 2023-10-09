@@ -114,9 +114,6 @@ print("He agrees to help you, but can answer only 3 questions, or else the Wizar
 alerted due to a special spell that was cast on the Centaur, when he became his assistant.")
 print("Choose your questions wisely.")
 print()
-
-# Choose your Question game
-
 j=""
 while j!="Continue" :
     print("What will be your first question - ")
