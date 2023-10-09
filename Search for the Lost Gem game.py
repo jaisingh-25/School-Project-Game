@@ -74,9 +74,6 @@ print("Since the Wizard prefers only speaking to intelligent people, you have to
 the guard in a puzzle set by the Wizard himself, to prove your intelligence.")
 print("The rules of this puzzle are simple -")
 print()
-
-# 21 Matchsticks Game
-
 print("1. The guard will place 21 matchsticks on a table.")
 print("2. You and the Guard will take alternate turns to pick up the matchsticks, with you \
 going first.")
