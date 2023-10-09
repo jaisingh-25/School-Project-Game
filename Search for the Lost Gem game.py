@@ -30,9 +30,6 @@ hair, possibly from a beard.")
 print("After see these objects, you start to wonder to whom such things belong to...")
 a=input("Please press the enter key to continue.")
 print()
-
-# Guess the Word game
-
 b=""
 while b!="3" :
     print("Guess the person to whom a long wooden smoking pipe, a dark-blue \
