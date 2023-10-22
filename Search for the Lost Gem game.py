@@ -294,9 +294,6 @@ than your previous guess, else he will reply with - COLD.")
 you start over again.")
         a=input("Please press the enter key to start the game.")
         print()
-        
-# HOT or COLD game
-        
         import random as ac
         z=0
         while z!=1 :
