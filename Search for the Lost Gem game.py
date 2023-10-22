@@ -224,9 +224,6 @@ exclusively used by the Vikings kind.")
         print("At the next morning's dawn, you continue with your quest.")
         a=input("Please press the enter key to continue.")
         print()
-        
-# The Roman Numeral game
-
         print("CHAPTER VII - HOW GOOD IS YOUR MATH?")
         print()
         print("Now, you come across a floating bridge which keeps appearing and disappearing \
