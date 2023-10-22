@@ -169,9 +169,6 @@ chasing a deer.")
     print("It might be a trap, might not be a trap...")
     k=input("How do you respond, Yes (to help) or No (to not help) ? - ")
     if k=="Yes" :
-    
-# Find the Direction game
-
         print("You ask her which turns she took and after how much distance.")
         print("She replies - ")
         print()
