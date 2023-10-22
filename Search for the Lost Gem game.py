@@ -344,9 +344,6 @@ the Wizard had told him to hide for a couple of days.")
         print()
         print("While travelling in the forest you encounter many strange looking creatures, \
 but the Talisman you received from the retired Royal Guard keeps you safe.")
-        
-# The Battle of the Beasts
-        
         print("Suddenly, out of nowhere, a magical golem and a Basilisk, a beast \
 that's half bird and half snake, jump in front of you.")
         print("You conclude them to have been sent by the Wizard, in order to stop you.")
