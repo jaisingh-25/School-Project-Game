@@ -474,9 +474,6 @@ than your previous guess, else he will reply with - COLD.")
         print("You can guess the number only 20 times before the password changes again.")
         a=input("Please press the enter key to start the game.")
         print()
-        
-# HOT or COLD game
-        
         import random as ac
         z=0
         while z!=1 :
@@ -537,9 +534,6 @@ a=input("Please press the enter key to continue.")
 print()
 print("CHAPTER X - THE BEGINNING OF THE END")
 print()
-
-# The Hangman Game
-
 print("As you finally approach the chest, you have to open it before the Wizard himself arrives.")
 print("This chest can only be unlocked by a certain keyword.")
 print("You have been provided with 2 hints to assist you.")
@@ -553,7 +547,6 @@ print()
 print("You can guess the letters present in the word and if your guess is right \
 the empty position will be filled by a letter.")
 print("You have 15 such guesses to fill the entire word, before the Wizard arrives and finds you.")
-
 ae=0
 while ae<15 :
     import random as r
