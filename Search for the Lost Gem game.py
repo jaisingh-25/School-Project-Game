@@ -375,7 +375,6 @@ on an elevated platform.")
                 print("Try hiding first next time.")
                 a=input("Please press the enter key to restart the fight.")
                 print()
-# ...........   
     else :
         print("You carefully leave the kid to herself, to avoid what may be a potential trap.")
         a=input("Please press the enter key to continue.")
@@ -406,9 +405,6 @@ exclusively used by the Vikings kind.")
         print("At the next morning's dawn, you continue with your quest.")
         a=input("Please press the enter key to continue.")
         print()
-        
-# The Roman Numeral game
-
         print("CHAPTER VII - HOW GOOD IS YOUR MATH?")
         print()
         print("Now, you come across a floating bridge which keeps appearing and disappearing \
