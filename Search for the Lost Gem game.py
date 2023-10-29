@@ -1,7 +1,4 @@
-print("This is an epic Fantasy-Adventure game developed by Jai Singh\nNow the game begins...\nPlease press the enter key to begin\nCHAPTER I - THE PREMISE")
-print()
-print("The game is set in the fictional world of Azeroth, where")
-print("You are a Hobbit, peacefully living in your village, The Shire.")
+print("This is an epic Fantasy-Adventure game developed by Jai Singh\nNow the game begins...\nPlease press the enter key to begin\nCHAPTER I - THE PREMISE\nThe game is set in the fictional world of Azeroth, where\nyou are a Hobbit, peacefully living in your village, The Shire.")
 print("But one day you wake up to find that your best friend, Pippin is missing.")
 print("Pippin's home is empty and even the Shire-Folk, i.e., the villagers, have no clue \
 as to where he is.")
