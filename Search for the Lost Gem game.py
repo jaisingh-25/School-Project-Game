@@ -1,5 +1,4 @@
-print("This is an epic Fantasy-Adventure game developed by Jai Singh\n")
-print("Now the game begins...")
+print("This is an epic Fantasy-Adventure game developed by Jai Singh\nNow the game begins...\n")
 a=input("Please press the enter key to begin.")
 print()
 print("CHAPTER I - THE PREMISE")
