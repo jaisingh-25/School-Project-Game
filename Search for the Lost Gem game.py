@@ -1,7 +1,4 @@
-print("This is an epic Fantasy-Adventure game developed by Jai Singh\nNow the game begins...\n")
-a=input("Please press the enter key to begin.")
-print()
-print("CHAPTER I - THE PREMISE")
+print("This is an epic Fantasy-Adventure game developed by Jai Singh\nNow the game begins...\nPlease press the enter key to begin\nCHAPTER I - THE PREMISE")
 print()
 print("The game is set in the fictional world of Azeroth, where")
 print("You are a Hobbit, peacefully living in your village, The Shire.")
