@@ -1,10 +1,7 @@
 print("This is an epic Fantasy-Adventure game developed by Jai Singh\nNow the game begins...\nPlease press the enter key to begin\nCHAPTER I - THE PREMISE\nThe game is set in the fictional world of Azeroth, where\nyou are a Hobbit, peacefully living in your village, The Shire.\nBut one day you wake up to find that your best friend, Pippin is missing.\nPippin's home is empty and even the Shire-Folk, i.e., the villagers, have no clue as to where he is.")
 a=input("Please press the enter key to continue.\n")
 print("As you approach his door, you find a note from the Royal guards with the Elvish King's seal on it.")
-print("It reads that Pippin is accused of stealing the Gem that resided in the Queen's crown.")
-print("You come to know that the footsteps of the thief lead to Pippin's house, \
-hence the soldiers have arrested him and put him in prison by the King's orders.")
-print("Only you believe that Pippin is innocent and now it's up to you to prove his innocence.")
+print("It reads that Pippin is accused of stealing the Gem that resided in the Queen's crown.\nYou come to know that the footsteps of the thief lead to Pippin's house, hence the soldiers have arrested him and put him in prison by the King's orders.\nOnly you believe that Pippin is innocent and now it's up to you to prove his innocence.")
 a=input("Please press the enter key to continue.")
 print()
 print("CHAPTER II - THE SEARCH BEGINS...")
