@@ -2,16 +2,9 @@ print("This is an epic Fantasy-Adventure game developed by Jai Singh\nNow the ga
 a=input("Please press the enter key to continue.\n")
 print("As you approach his door, you find a note from the Royal guards with the Elvish King's seal on it.\nIt reads that Pippin is accused of stealing the Gem that resided in the Queen's crown.\nYou come to know that the footsteps of the thief lead to Pippin's house, hence the soldiers have arrested him and put him in prison by the King's orders.\nOnly you believe that Pippin is innocent and now it's up to you to prove his innocence.")
 a=input("Please press the enter key to continue.\n")
-print("CHAPTER II - THE SEARCH BEGINS...")
-print()
-print("You decide to look inside his house to get some clues as to what actually happened.")
-print("You notice that there are some signs of struggle near the main door and the kitchen.")
-print("You also find some extra things that shouldn't belong in Pippin's house, they are - ")
-print("A long wooden smoking pipe, a dark-blue conical hat and a few strands of white \
-hair, possibly from a beard.")
+print("CHAPTER II - THE SEARCH BEGINS...\nYou decide to look inside his house to get some clues as to what actually happened.\nYou notice that there are some signs of struggle near the main door and the kitchen.\nYou also find some extra things that shouldn't belong in Pippin's house, they are - \nA long wooden smoking pipe, a dark-blue conical hat and a few strands of white hair, possibly from a beard.")
 print("After see these objects, you start to wonder to whom such things belong to...")
-a=input("Please press the enter key to continue.")
-print()
+a=input("Please press the enter key to continue.\n")
 b=""
 while b!="3" :
     print("Guess the person to whom a long wooden smoking pipe, a dark-blue \
