@@ -6,10 +6,7 @@ print("CHAPTER II - THE SEARCH BEGINS...\nYou decide to look inside his house to
 a=input("Please press the enter key to continue.\n")
 b=""
 while b!="3" :
-    print("Guess the person to whom a long wooden smoking pipe, a dark-blue \
-conical hat and a few strands of white hair could belong to.")
-    print("Your options are -")
-    print("1. Royal guards     2. A Hobbit Villager     3. A Wizard    4. A Dragon")
+    print("Guess the person to whom a long wooden smoking pipe, a dark-blue conical hat and a few strands of white hair could belong to.\nYour options are -\n1. Royal guards     2. A Hobbit Villager     3. A Wizard    4. A Dragon")
     b=input()
     if b!="3" :
         print("Wrong answer, please try again")
