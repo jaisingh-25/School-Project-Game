@@ -12,10 +12,8 @@ while b!="3" :
         print("Wrong answer, please try again")
 print("Yes, you are right. These are the possessions of a Wizard!")
 a=input("Please press the enter key to continue.\n")
-print("You search the house for further clues.\nUpon inspecting the fireplace, you find a secret note left by Pippin, which enlightens you about what happened the previous night.\nHe writes that at late night, an unknown entity broke into his home, whom you have successfully identified as the Wizard.")
-print("As Pippin tried to grab the intruder, he was incapacitated by the Wizard, who cast a spell of silence on him, so that Pippin won't be able to tell the Guards what happened.")
-a=input("Please press the enter key to continue.")
-print()
+print("You search the house for further clues.\nUpon inspecting the fireplace, you find a secret note left by Pippin, which enlightens you about what happened the previous night.\nHe writes that at late night, an unknown entity broke into his home, whom you have successfully identified as the Wizard.\nAs Pippin tried to grab the intruder, he was incapacitated by the Wizard, who cast a spell of silence on him, so that Pippin won't be able to tell the Guards what happened.")
+a=input("Please press the enter key to continue.\n")
 print("In his unexpected confrontation with the Wizard, Pippin had managed to snatch \
 the hat, pipe and some hair off before the Wizard turned invisible and escaped.")
 print("You understand that the Wizard's plan was to frame Pippin in order to get \
