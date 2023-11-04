@@ -11,8 +11,7 @@ while b!="3" :
     if b!="3" :
         print("Wrong answer, please try again")
 print("Yes, you are right. These are the possessions of a Wizard!")
-a=input("Please press the enter key to continue.")
-print()
+a=input("Please press the enter key to continue.\n")
 print("You search the house for further clues.")
 print("Upon inspecting the fireplace, you find a secret note left by Pippin, which \
 enlightens you about what happened the previous night.")
