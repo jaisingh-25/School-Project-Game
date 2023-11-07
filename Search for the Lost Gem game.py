@@ -17,8 +17,7 @@ a=input("Please press the enter key to continue.\n")
 print("In his unexpected confrontation with the Wizard, Pippin had managed to snatch the hat, pipe and some hair off before the Wizard turned invisible and escaped.\nYou understand that the Wizard's plan was to frame Pippin in order to get the Royal Guards off his trail and run back to his lair.\nNow you have to embark on a quest to help Pippin get out of the prison and make sure that the evil Wizard is punished for his crimes.")
 a=input("Please press the enter key to continue.\n")
 print("CHAPTER III - THE CULPRIT\n")
-print("Since the Wizard is a close friend and an advisor to the king, he will be at the king's palace at this time of the day.\nYou have to first find the Missing Gem and then present it to the king along \
-with the true story of the robbery.\nYou begin your travel through the Mirkwood forest towards the Wizard's lair...")
+print("Since the Wizard is a close friend and an advisor to the king, he will be at the king's palace at this time of the day.\nYou have to first find the Missing Gem and then present it to the king along with the true story of the robbery.\nYou begin your travel through the Mirkwood forest towards the Wizard's lair...")
 a=input("Please press the enter key to continue.")
 print()
 print("At the Wizard's lair, you encounter a guard patrolling the gate. The guard wouldn't \
