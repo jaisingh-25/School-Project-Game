@@ -18,8 +18,7 @@ print("In his unexpected confrontation with the Wizard, Pippin had managed to sn
 a=input("Please press the enter key to continue.\n")
 print("CHAPTER III - THE CULPRIT\n\nSince the Wizard is a close friend and an advisor to the king, he will be at the king's palace at this time of the day.\nYou have to first find the Missing Gem and then present it to the king along with the true story of the robbery.\nYou begin your travel through the Mirkwood forest towards the Wizard's lair...")
 a=input("Please press the enter key to continue.\n")
-print("At the Wizard's lair, you encounter a guard patrolling the gate. The guard wouldn't let anyone pass through without solving a puzzle.")
-print("Since the Wizard prefers only speaking to intelligent people, you have to outsmart \
+print("At the Wizard's lair, you encounter a guard patrolling the gate. The guard wouldn't let anyone pass through without solving a puzzle.\nSince the Wizard prefers only speaking to intelligent people, you have to outsmart \
 the guard in a puzzle set by the Wizard himself, to prove your intelligence.")
 print("The rules of this puzzle are simple -")
 print()
