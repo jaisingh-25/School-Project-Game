@@ -20,8 +20,7 @@ print("CHAPTER III - THE CULPRIT\n\nSince the Wizard is a close friend and an ad
 a=input("Please press the enter key to continue.\n")
 print("At the Wizard's lair, you encounter a guard patrolling the gate. The guard wouldn't let anyone pass through without solving a puzzle.\nSince the Wizard prefers only speaking to intelligent people, you have to outsmart \
 the guard in a puzzle set by the Wizard himself, to prove your intelligence.\nThe rules of this puzzle are simple -\n1. The guard will place 21 matchsticks on a table.")
-print("2. You and the Guard will take alternate turns to pick up the matchsticks, with you \
-going first.")
+print("2. You and the Guard will take alternate turns to pick up the matchsticks, with you going first.")
 print("3. You can pick 1, 2, 3 or 4 matchsticks depending on your choice during a single turn.")
 print("4. The person who picks the last matchstick loses the game.")
 a=input("Please press the enter key to start the game.")
