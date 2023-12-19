@@ -31,8 +31,7 @@ while f=="Yes" :
         print("The Guard picks up", e, "matchsticks.")
     print("And since you picked up the last matchstick, you lose the game.")
     f=input("Do you want to try again? - ")
-print("\nWait a minute...\nYou realise that this game is impossible to win if you are the first one to pick the matchstick first.\nThis time you agree play the puzzle but ask the Guard to go first.\nThe Guard replies with a smile that you have figured out the catch in the puzzle, and \
-have hence proved your intelligence.")
+print("\nWait a minute...\nYou realise that this game is impossible to win if you are the first one to pick the matchstick first.\nThis time you agree play the puzzle but ask the Guard to go first.\nThe Guard replies with a smile that you have figured out the catch in the puzzle, and have hence proved your intelligence.")
 print("The Guard opens the gate and you go in...")
 a=input("Please press the enter key to continue.")
 print()
