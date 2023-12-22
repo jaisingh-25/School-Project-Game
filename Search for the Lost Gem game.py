@@ -34,8 +34,7 @@ while f=="Yes" :
 print("\nWait a minute...\nYou realise that this game is impossible to win if you are the first one to pick the matchstick first.\nThis time you agree play the puzzle but ask the Guard to go first.\nThe Guard replies with a smile that you have figured out the catch in the puzzle, and have hence proved your intelligence.\nThe Guard opens the gate and you go in...")
 a=input("Please press the enter key to continue.")
 print("\nCHAPTER IV - AN UNEXPECTED ALLY")
-print()
-print("As the Wizard is currently at the palace, you can look for clues regarding the Stolen Gem")
+print("\nAs the Wizard is currently at the palace, you can look for clues regarding the Stolen Gem")
 print("As you go further indoors you meet a Centaur, the Wizard's assistant.")
 print("The Wizard of often mistreats his assistant, Centaur, and makes him do \
 unnecessarily difficult chores.")
