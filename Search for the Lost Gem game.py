@@ -38,8 +38,7 @@ a=input("Please press the enter key to continue.")
 print("\nHe agrees to help you, but can answer only 3 questions, or else the Wizard will be alerted due to a special spell that was cast on the Centaur, when he became his assistant.\nChoose your questions wisely.\n")
 j=""
 while j!="Continue" :
-    print("What will be your first question - \n1. Where was the Wizard on the night of the robbery?")
-    print("2. What did the Wizard have for Breakfast?")
+    print("What will be your first question - \n1. Where was the Wizard on the night of the robbery?\n2. What did the Wizard have for Breakfast?")
     g=int(input())
     if g==1 :
         print("The Centaur replies that he had seen the Wizard slip through the gates and \
