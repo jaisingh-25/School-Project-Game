@@ -35,8 +35,7 @@ print("\nWait a minute...\nYou realise that this game is impossible to win if yo
 a=input("Please press the enter key to continue.")
 print("\nCHAPTER IV - AN UNEXPECTED ALLY\nAs the Wizard is currently at the palace, you can look for clues regarding the Stolen Gem.\nAs you go further indoors you meet a Centaur, the Wizard's assistant.\nThe Wizard of often mistreats his assistant, Centaur, and makes him do unnecessarily difficult chores.\nOn the other hand the Centaur is honest and wise, and knows about the Wizard's crime.")
 a=input("Please press the enter key to continue.")
-print("\nHe agrees to help you, but can answer only 3 questions, or else the Wizard will be \
-alerted due to a special spell that was cast on the Centaur, when he became his assistant.")
+print("\nHe agrees to help you, but can answer only 3 questions, or else the Wizard will be alerted due to a special spell that was cast on the Centaur, when he became his assistant.")
 print("Choose your questions wisely.")
 print()
 j=""
