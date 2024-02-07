@@ -43,8 +43,7 @@ while j!="Continue" :
     if g==1 :
         print("The Centaur replies that he had seen the Wizard slip through the gates and venture out during that night.")
     else :
-        print("The Centaur replies that the Wizard had a sandwich, disappointed in such \
-a useless question.")
+        print("The Centaur replies that the Wizard had a sandwich, disappointed in such a useless question.")
     print("\nWhat will be your second question - \n1. Did he meet with anybody later that night?")
     print("2. What type of sandwich did he eat?")
     h=int(input())
@@ -60,8 +59,7 @@ a useless question.")
     if i==1 :
         print("The Centaur replies that the Viking usually drinks at the local Tavern.")
     else :
-        print("The Centaur replies that he made them and storms off, muttering that he wasted \
-his time with you.")
+        print("The Centaur replies that he made them and storms off, muttering that he wasted his time with you.")
         print("Try again")
     print()
     if g+h+i==3:
