@@ -41,8 +41,7 @@ while j!="Continue" :
     print("What will be your first question - \n1. Where was the Wizard on the night of the robbery?\n2. What did the Wizard have for Breakfast?")
     g=int(input())
     if g==1 :
-        print("The Centaur replies that he had seen the Wizard slip through the gates and \
-venture out during that night.")
+        print("The Centaur replies that he had seen the Wizard slip through the gates and venture out during that night.")
     else :
         print("The Centaur replies that the Wizard had a sandwich, disappointed in such \
 a useless question.")
