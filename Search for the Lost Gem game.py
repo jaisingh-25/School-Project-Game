@@ -46,8 +46,7 @@ venture out during that night.")
     else :
         print("The Centaur replies that the Wizard had a sandwich, disappointed in such \
 a useless question.")
-    print("\nWhat will be your second question - ")
-    print("1. Did he meet with anybody later that night?")
+    print("\nWhat will be your second question - \n1. Did he meet with anybody later that night?")
     print("2. What type of sandwich did he eat?")
     h=int(input())
     if h==1 :
