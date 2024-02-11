@@ -61,8 +61,7 @@ while j!="Continue" :
         j="Continue"
     else :
         j="Try Again"
-print("Before leaving the lair, the Centaur also hands you a special anti-magic potion which can be used to remove any magical properties or spells on an object.")
-print("You may use that in case you ever have to defend yourself or solve a puzzle.\nYou thank the Centaur and leave.")
+print("Before leaving the lair, the Centaur also hands you a special anti-magic potion which can be used to remove any magical properties or spells on an object.\nYou may use that in case you ever have to defend yourself or solve a puzzle.\nYou thank the Centaur and leave.")
 a=input("Please press the enter key to continue.")
 k="No"
 while k=="No" :
