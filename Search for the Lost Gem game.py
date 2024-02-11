@@ -55,8 +55,7 @@ while j!="Continue" :
     if i==1 :
         print("The Centaur replies that the Viking usually drinks at the local Tavern.")
     else :
-        print("The Centaur replies that he made them and storms off, muttering that he wasted his time with you.")
-        print("Try again")
+        print("The Centaur replies that he made them and storms off, muttering that he wasted his time with you.\nTry again")
     print()
     if g+h+i==3:
         j="Continue"
