@@ -50,8 +50,7 @@ while j!="Continue" :
         print("The Centaur replies that he did meet a viking and exchanged some items ")
     else :
         print("The Centaur replies that it was a PB and J sandwich, even more disappointed.")
-    print("\nWhat will be your third question - ")
-    print("1. Where can I find this Viking?")
+    print("\nWhat will be your third question - \n1. Where can I find this Viking?")
     print("2. Who made the sandwiches?")
     i=int(input())
     if i==1 :
