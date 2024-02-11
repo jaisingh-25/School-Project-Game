@@ -65,8 +65,7 @@ print("Before leaving the lair, the Centaur also hands you a special anti-magic 
 a=input("Please press the enter key to continue.")
 k="No"
 while k=="No" :
-    print("\nCHAPTER V - THE SIDE MISSION\n")
-    print("As you are on your way to the Inn, you spot a small kid crying.")
+    print("\nCHAPTER V - THE SIDE MISSION\nAs you are on your way to the Inn, you spot a small kid crying.")
     print("You approach her and come to know that she has lost her way home while she was \
 chasing a deer.")
     print("As there is no one around, she asks for your help.")
