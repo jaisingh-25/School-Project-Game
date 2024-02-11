@@ -44,8 +44,7 @@ while j!="Continue" :
         print("The Centaur replies that he had seen the Wizard slip through the gates and venture out during that night.")
     else :
         print("The Centaur replies that the Wizard had a sandwich, disappointed in such a useless question.")
-    print("\nWhat will be your second question - \n1. Did he meet with anybody later that night?")
-    print("2. What type of sandwich did he eat?")
+    print("\nWhat will be your second question - \n1. Did he meet with anybody later that night?\n2. What type of sandwich did he eat?")
     h=int(input())
     if h==1 :
         print("The Centaur replies that he did meet a viking and exchanged some items ")
