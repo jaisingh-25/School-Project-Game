@@ -66,8 +66,7 @@ a=input("Please press the enter key to continue.")
 k="No"
 while k=="No" :
     print("\nCHAPTER V - THE SIDE MISSION\nAs you are on your way to the Inn, you spot a small kid crying.\nYou approach her and come to know that she has lost her way home while she was chasing a deer.")
-    print("As there is no one around, she asks for your help.\n")
-    print("It might be a trap, might not be a trap...")
+    print("As there is no one around, she asks for your help.\nIt might be a trap, might not be a trap...")
     k=input("How do you respond, Yes (to help) or No (to not help) ? - ")
     if k=="Yes" :
         print("You ask her which turns she took and after how much distance.")
