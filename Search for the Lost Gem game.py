@@ -68,8 +68,7 @@ while k=="No" :
     print("\nCHAPTER V - THE SIDE MISSION\nAs you are on your way to the Inn, you spot a small kid crying.\nYou approach her and come to know that she has lost her way home while she was chasing a deer.\nAs there is no one around, she asks for your help.\nIt might be a trap, might not be a trap...")
     k=input("How do you respond, Yes (to help) or No (to not help) ? - ")
     if k=="Yes" :
-        print("You ask her which turns she took and after how much distance.\nShe replies - \nFirst she went straight for 100 m, after which she took three clockwise \
-90⁰ turns and went straight for another 100 m.\nThen she took another clockwise 90⁰ turn and went 100 m forward, lastly she took three anti-clockwise 90⁰ turns and went straight for 100 m.\nAssuming her house to be North, in which direction and how much distance should she travel to reach home?")
+        print("You ask her which turns she took and after how much distance.\nShe replies - \nFirst she went straight for 100 m, after which she took three clockwise 90⁰ turns and went straight for another 100 m.\nThen she took another clockwise 90⁰ turn and went 100 m forward, lastly she took three anti-clockwise 90⁰ turns and went straight for 100 m.\nAssuming her house to be North, in which direction and how much distance should she travel to reach home?")
         n=0
         while n!=1 :
             l=input("Direction - ")
