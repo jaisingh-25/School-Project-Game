@@ -88,8 +88,7 @@ while k=="No" :
         print("CHAPTER VI - THE MIDNIGHT CRISIS")
         print()
         print("Now, the sun is starting to set and you need to find a place to spend the night.")
-        print("Since, you are too far to go back home, go to a local Inn, where \
-travellers often to seek shelter at night.")
+        print("Since, you are too far to go back home, go to a local Inn, where travellers often to seek shelter at night.")
         print("You pay for your room and decide to resume on your quest tomorrow dawn.")
         a=input("Please press the enter key to continue.")
         print()
