@@ -78,8 +78,7 @@ while k=="No" :
             else :
                 print("Wrong answer, try again.")
         print()
-        print("Congratulations, after having correctly figured out the right path \
-, you offer to walk her back home.")
+        print("Congratulations, after having correctly figured out the right path , you offer to walk her back home.")
         print("You finally reach her home and meet her worried father, an old retired \
 Royal Guard who used to work at the King's palace.")
         print("He is very grateful to you and gives you a Golden Talisman, as a \
