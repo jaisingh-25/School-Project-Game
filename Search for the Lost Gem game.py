@@ -92,8 +92,7 @@ while k=="No" :
         print("You pay for your room and decide to resume on your quest tomorrow dawn.")
         a=input("Please press the enter key to continue.")
         print()
-        print("It is midnight, when you suddenly wake up from your sleep due to \
-loud arguments at the Inn's door.")
+        print("It is midnight, when you suddenly wake up from your sleep due to loud arguments at the Inn's door.")
         print("You go to the door and see the Inn's owner arguing with someone.")
         print("This someone is yet another traveller who has forgotten to bring \
 money with himself for the Inn.")
