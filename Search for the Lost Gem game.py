@@ -94,8 +94,7 @@ while k=="No" :
         print()
         print("It is midnight, when you suddenly wake up from your sleep due to loud arguments at the Inn's door.")
         print("You go to the door and see the Inn's owner arguing with someone.")
-        print("This someone is yet another traveller who has forgotten to bring \
-money with himself for the Inn.")
+        print("This someone is yet another traveller who has forgotten to bring money with himself for the Inn.")
         print("He is trying convince to owner to let him stay for the night, but \
 the owner won't let him stay for free.")
         a=input("Please press the enter key to continue.")
