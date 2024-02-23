@@ -81,8 +81,7 @@ while k=="No" :
         print("Congratulations, after having correctly figured out the right path , you offer to walk her back home.")
         print("You finally reach her home and meet her worried father, an old retired Royal Guard who used to work at the King's palace.")
         print("He is very grateful to you and gives you a Golden Talisman, as a token of appreciation.")
-        print("This Talisman, will grant you a safe passage in any forest you travel, \
-as no animal will be able to harm this Talisman's user.")
+        print("This Talisman, will grant you a safe passage in any forest you travel, as no animal will be able to harm this Talisman's user.")
         print("You thank him and return back to your main quest")
         a=input("Please press the enter key to continue.")
         print()
