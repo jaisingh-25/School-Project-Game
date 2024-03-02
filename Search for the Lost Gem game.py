@@ -4,7 +4,7 @@ print("As you approach his door, you find a note from the Royal guards with the 
 a=input("Please press the enter key to continue.\n")
 print("CHAPTER II - THE SEARCH BEGINS...\nYou decide to look inside his house to get some clues as to what actually happened.\nYou notice that there are some signs of struggle near the main door and the kitchen.\nYou also find some extra things that shouldn't belong in Pippin's house, they are - \nA long wooden smoking pipe, a dark-blue conical hat and a few strands of white hair, possibly from a beard.\nAfter see these objects, you start to wonder to whom such things belong to...")
 a=input("Please press the enter key to continue.\n")
-b="Yo"
+b=""
 while b!="3" :
     print("Guess the person to whom a long wooden smoking pipe, a dark-blue conical hat and a few strands of white hair could belong to.\nYour options are -\n1. Royal guards     2. A Hobbit Villager     3. A Wizard    4. A Dragon")
     b=input()
