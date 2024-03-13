@@ -81,8 +81,7 @@ while k=="No" :
         a=input("Please press the enter key to continue.")
         print("\nCHAPTER VI - THE MIDNIGHT CRISIS\n\nNow, the sun is starting to set and you need to find a place to spend the night.\nSince, you are too far to go back home, go to a local Inn, where travellers often to seek shelter at night.\nYou pay for your room and decide to resume on your quest tomorrow dawn.")
         a=input("Please press the enter key to continue.")
-        print("\nIt is midnight, when you suddenly wake up from your sleep due to loud arguments at the Inn's door.\nYou go to the door and see the Inn's owner arguing with someone.\nThis someone is yet another traveller who has forgotten to bring money with himself for the Inn.")
-        print("He is trying convince to owner to let him stay for the night, but the owner won't let him stay for free.")
+        print("\nIt is midnight, when you suddenly wake up from your sleep due to loud arguments at the Inn's door.\nYou go to the door and see the Inn's owner arguing with someone.\nThis someone is yet another traveller who has forgotten to bring money with himself for the Inn.\nHe is trying convince to owner to let him stay for the night, but the owner won't let him stay for free.")
         a=input("Please press the enter key to continue.")
         print()
         print("You are overcome by pity at the Traveller's plight and intervene \
