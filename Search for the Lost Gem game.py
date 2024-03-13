@@ -83,8 +83,7 @@ while k=="No" :
         a=input("Please press the enter key to continue.")
         print("\nIt is midnight, when you suddenly wake up from your sleep due to loud arguments at the Inn's door.\nYou go to the door and see the Inn's owner arguing with someone.\nThis someone is yet another traveller who has forgotten to bring money with himself for the Inn.\nHe is trying convince to owner to let him stay for the night, but the owner won't let him stay for free.")
         a=input("Please press the enter key to continue.")
-        print("\nYou are overcome by pity at the Traveller's plight and intervene \
-to offer the last of your money to the owner to pay for his room.")
+        print("\nYou are overcome by pity at the Traveller's plight and intervene to offer the last of your money to the owner to pay for his room.")
         print("The Traveller thanks you for your generosity and offers you five \
 magic beans, which you accept.")
         print("He says that these beans are a highly valuable form of currency, \
