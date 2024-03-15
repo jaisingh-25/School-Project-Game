@@ -85,8 +85,7 @@ while k=="No" :
         a=input("Please press the enter key to continue.")
         print("\nYou are overcome by pity at the Traveller's plight and intervene to offer the last of your money to the owner to pay for his room.\nThe Traveller thanks you for your generosity and offers you five magic beans, which you accept.\nHe says that these beans are a highly valuable form of currency, exclusively used by the Vikings kind.\nAt the next morning's dawn, you continue with your quest.")
         a=input("Please press the enter key to continue.")
-        print("\nCHAPTER VII - HOW GOOD IS YOUR MATH?\nNow, you come across a floating bridge which keeps appearing and disappearing \
-and only gives passage to someone who can solve the ancient stone tablet's mystery.")
+        print("\nCHAPTER VII - HOW GOOD IS YOUR MATH?\nNow, you come across a floating bridge which keeps appearing and disappearing and only gives passage to someone who can solve the ancient stone tablet's mystery.")
         print("It has an inscription that reads - ")
         print()
         print("To cross the bridge, you must be heard")
