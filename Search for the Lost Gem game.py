@@ -92,8 +92,7 @@ while k=="No" :
         print()
         print("Under this you find a short sentence with some missing letters - ")
         print("The har_est th_ng _n l_fe _s to learn wh__h br__ge to _ross an_ wh__h to burn.")
-        a=input("Please press the enter key to continue.")
-        print()
+        a=input("Please press the enter key to continue.\n")
         o=0
         while o!=2 :
             print("How will you try to solve this problem - ")
