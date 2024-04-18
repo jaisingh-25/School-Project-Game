@@ -102,8 +102,7 @@ while k=="No" :
             o=int(input())
             if o!=2 :
                 print("Wrong answer, please try again")
-        print()
-        print("You figured it out!")
+        print("\nYou figured it out!")
         print("The inscription is a hint that instructs us how to cross the bridge.")
         print("You have to fill the spaces with Roman Numerals and read the sentence out aloud.")
         x=0
