@@ -159,8 +159,7 @@ you start over again.")
                     print("Wow")
                     z=1
                 elif ab==20 :
-                    print("This is was your last guess, now the password will change \
-and you will have to start over.")
+                    print("This is was your last guess, now the password will change and you will have to start over.")
                 elif ab>1 and aa!=y :
                     if abs(y-ad)>abs(y-aa) :
                         print("The old man replies - HOT")
