@@ -119,8 +119,7 @@ while k=="No" :
                 return r
             s=[]
             for t in range(1, 14):
-                print("Enter the integer respective to the Roman numeral character \
-for blank space no. ", t)
+                print("Enter the integer respective to the Roman numeral character for blank space no. ", t)
                 u=int(input())
                 v=roman(u)
                 s.append(v)
