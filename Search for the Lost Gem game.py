@@ -141,8 +141,7 @@ for blank space no. ", t)
         a=input("Please press the enter key to continue.")
         print()
         print("But he can only answer in the specific words - HOT or COLD.")
-        print("He will reply with - HOT, if your guess is closer to the password \
-than your previous guess, else he will reply with - COLD.")
+        print("He will reply with - HOT, if your guess is closer to the password than your previous guess, else he will reply with - COLD.")
         print("You can guess the number 20 times before the password changes and \
 you start over again.")
         a=input("Please press the enter key to start the game.")
