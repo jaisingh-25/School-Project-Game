@@ -197,8 +197,7 @@ that's half bird and half snake, jump in front of you.")
         print("But it does not protect you from the Golem, which is a supernatural creature.")
         ag=0
         while ag!=1 :
-            print("You have to think fast and make a move before the Golem does...What do you do?")
-            print("1. Try to outrun him and hide")
+            print("You have to think fast and make a move before the Golem does...What do you do?\n1. Try to outrun him and hide")
             print("2. Look for any useful items in your bag.")
             ae=int(input())
             if ae==1 :
