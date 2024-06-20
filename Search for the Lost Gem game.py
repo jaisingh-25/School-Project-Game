@@ -96,8 +96,7 @@ while k=="No" :
         o=0
         while o!=2 :
             print("How will you try to solve this problem - \nYour options are -")
-            print("1. Try to look for some other bridge")
-            print("2. Try to fill Roman Numeral characters in the spaces")
+            print("1. Try to look for some other bridge\n2. Try to fill Roman Numeral characters in the spaces")
             o=int(input())
             if o!=2 :
                 print("Wrong answer, please try again")
