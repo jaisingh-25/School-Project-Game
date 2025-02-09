@@ -1,5 +1,5 @@
-# School-Project-Game 
-
+# School-Project-Games  
+  
 This is a non-graphical, text-based game created by me for my 11th school project in python.  
   
 It features several mini-games in itself like 21 matchsticks, hangman, hot or cold, etc and follows the player's quest. It also has many chocies throughout the game and the game's ending depends on the choices made by the player.  
